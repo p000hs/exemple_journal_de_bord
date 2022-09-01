@@ -13,6 +13,11 @@ Ce qui m'interéresse en TIM et le travail en équipe et l'oportunité de pouvoi
  Markup : * Bullet list
               * Nested bullet
                   * Sub-nested bullet etc
-          * I want to be happy
-          * I want to have a job i like
-          * I want to have fun!
+          * Bullet list item 2
+
+-OR-
+
+ Markup : - Bullet list
+              - Nested bullet
+                  - Sub-nested bullet etc
+          - Bullet list item 2 
