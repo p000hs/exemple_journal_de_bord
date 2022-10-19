@@ -6,8 +6,7 @@ Exemple:
 ### [Bulle](https://www.onf.ca/interactif/bulle/) 
 L'oeuvre *Bulle* m'interpelle beaucoup puisque c'est une oeuvre interactive qui porte un message fort. En effet, elle tente de nous sensibiliser aux enjeux climatiques. Prendre position et défendre des valeurs par l'art est l'un des aspects du multimédia qui m'intéresse beaucoup. 
 
-### Lien 1 
-https://vustudio.com/nashville/?utm_term=&utm_campaign=Search+-+Vu+Studio+-+Local+Campaigns&utm_source=adwords&utm_medium=ppc&hsa_acc=6132081366&hsa_cam=17461677318&hsa_grp=145583272492&hsa_ad=617831601050&hsa_src=g&hsa_tgt=dsa-1729991563419&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gclid=EAIaIQobChMIo-7Gx_il-gIVSDizAB1c5w_GEAAYASAAEgKeVPD_BwE
+### [vustudio]https://vustudio.com/nashville/?utm_term=&utm_campaign=Search+-+Vu+Studio+-+Local+Campaigns&utm_source=adwords&utm_medium=ppc&hsa_acc=6132081366&hsa_cam=17461677318&hsa_grp=145583272492&hsa_ad=617831601050&hsa_src=g&hsa_tgt=dsa-1729991563419&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gclid=EAIaIQobChMIo-7Gx_il-gIVSDizAB1c5w_GEAAYASAAEgKeVPD_BwE
 Vu studio a fait beaucoup de video pour plusieur grand artist comme twenty one pilots, carrie underwood ect. Les videos de music prend beaucoup de preparation car non seulement il doit avoir relation avec la music, mais aussi il decrit souvent une histoir. 
 
 ### Lien 2 
