@@ -2,10 +2,10 @@
 ## Rétrospective de la présentation 1
 
 ### Points forts
-Mon powerpoint étais bien fait avec des couleurs coherent. Ma presentation étais aussi fluid.
+Mon PowerPoint étais bien fait avec des couleurs cohérent. Ma présentation étais aussi fluide.
 
 ### Points à améliorer
-Moin de répétition durant la presentation et aussi parler beaucoup moin vite.
+Moins de répétition durant la présentation et aussi parler beaucoup moins vite.
 
 ### Présentation préférée
-Je n'ai pas vue la presentation de personne mais je vais dire Justine
+Je n'ai pas vu la présentation de personne, mais je vais dire Justine !
