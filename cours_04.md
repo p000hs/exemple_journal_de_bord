@@ -18,9 +18,11 @@ Ce travail as pour but de récuperé les rendus numeriques 3D et de les intégre
 L'animation 3D et le realisme et quelque chose de tres facinant, il y a plusieur facons créative de recrée les choses que nous voyons dans la vrais vie ou ce que nous voulons voir. Le travail a l'air trés demandant et parfois la realisation sera dificile. 
 
 ### Emploi 4 - Identification
-4 à 5 lignes
+Designer de jeux video
+Cette job demande de faire des prototype de jeux avec un enjin qui s'appelle Unity. Des que l'idée et crée il et temps de programmer. L'utilisation de plateforme de codage visuel a la palce de code est beaucoup plus facile. Cette application s'appelle Bolt qui est aussi inclue dans Unity. Cet outil permet facilement de réviser les idée. Cette emplois permet une grande liberté de creation avec les plusieurs outils. Les idée sont infini. Ce qui m'interesse moins est qu'il peut etre dure de travailler avec le logitiel. Parfois il vas y avoir une erreur dans un code qui peux étre capable de ne pas faire marcher tout le jeux au complet
 
 ### Emploi 5 - Identification
-4 à 5 lignes
+Développeur web "front-end"
+Cette emplois demande parfois une analyse et d'une maquette graphique. Analyser la demande du client en equipe puis trouver la meilleur solution puis, si il y a besoin d'une maquette graphique le designer vas la concevoir. L'étapes prochaine est la structure du squelette de l'interface HTML, cette étapes constitue a organiser et structurer à l'aide de balises HTML. Puis il faut crée l,interactiviter et donner vie au squelette avec javascript. Avec ce travail il y a une grosse diversiter de siteweb que les client pourais demander. Il y aura aussi toujours une demande pour les siteweb alors les emplois sont casiment garentie. Ce qui m'interesse moin est le codage et le déboguage.
 
 
